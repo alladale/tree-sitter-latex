@@ -522,5 +522,5 @@ build/
 /bindings/c/tree-sitter-*.pc
 
 !src/parser.c
-src/tree_sitter/
+!src/tree_sitter/
 .DS_Store
